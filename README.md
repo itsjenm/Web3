@@ -2,5 +2,5 @@
 
 Projects: 
 - Create a dApp on ETH blockchain
-- Create and deploy an ERC-20 token on ETH
+- Create and deploy an ERC-20 token 
 - Deploy an NFT project on ETH
